@@ -1,0 +1,25 @@
+TEI with Music Browser
+======================
+
+This project comprises a collection of XSLTs for transforming Text
+Encoding Initiative (TEI) encoded documents which make reference to
+music using a number of TEI customisations into documents which render
+in a Web browser with music examples, references, allusions, and
+analytic examples made highly interactive. Along with the XSLTs are
+provided JavaScript components and some server-side software
+components which enable some of the rendering and interactivity of
+musical components in documents, and retrieval of additional
+information from various different sources.
+
+The work is being carried out as part of the Purcell Plus project
+<http://www.purcellplus.org/>.
+
+Changes
+=======
+
+ * 2011-03-24 Initial commit of project files
+
+Contact
+=======
+
+Richard Lewis <richard.lewis@gold.ac.uk>
